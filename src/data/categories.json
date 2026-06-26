@@ -1,0 +1,72 @@
+[
+  {
+    "slug":"pasar-swalayan",
+    "name":"Pasar & Swalayan",
+    "description":"Promo dari supermarket, hypermarket, dan pasar swalayan."
+  },
+  {
+    "slug":"restoran-dan-cafe",
+    "name":"Restoran & Cafe",
+    "description":"Promo makan, minum, dan paket keluarga di restoran dan café."
+  },
+  {
+    "slug":"bank-dan-kartu-kredit",
+    "name":"Bank & Kartu Kredit",
+    "description":"Promo kartu kredit, cashback, dan cicilan tanpa bunga."
+  },
+  {
+    "slug":"beauty",
+    "name":"Beauty",
+    "description":"Diskon kosmetik, perawatan, dan salon."
+  },
+  {
+    "slug":"fashion",
+    "name":"Fashion",
+    "description":"Promo pakaian, sepatu, dan aksesori."
+  },
+  {
+    "slug":"event",
+    "name":"Event",
+    "description":"Informasi event, pameran, dan bazaar."
+  },
+  {
+    "slug":"katalog-belanja",
+    "name":"Katalog Belanja",
+    "description":"Katalog belanja mingguan dari berbagai toko."
+  },
+  {
+    "slug":"online-delivery",
+    "name":"Online Delivery",
+    "description":"Promo pesan antar dan layanan delivery."
+  },
+  {
+    "slug":"cinema",
+    "name":"Cinema",
+    "description":"Promo tiket bioskop dan paket nonton."
+  },
+  {
+    "slug":"mall",
+    "name":"Mall",
+    "description":"Promo dan event di pusat perbelanjaan."
+  },
+  {
+    "slug":"home-living",
+    "name":"Home & Living",
+    "description":"Diskon peralatan rumah dan dekorasi."
+  },
+  {
+    "slug":"health",
+    "name":"Health",
+    "description":"Promo apotek, klinik, dan layanan kesehatan."
+  },
+  {
+    "slug":"sport-fitness",
+    "name":"Sport & Fitness",
+    "description":"Diskon gym, perlengkapan olahraga, dan event lari."
+  },
+  {
+    "slug":"hotel-dan-travel",
+    "name":"Hotel & Travel",
+    "description":"Promo hotel, tiket, dan paket liburan."
+  }
+]
